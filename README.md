@@ -1,16 +1,14 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**tankeria1187-git/tankeria1187-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Это моё портфолио на Python. Сейчас выкладываю проекты, скоро добавлю описания, скриншоты и инструкции по запуску.
 
-Here are some ideas to get you started:
+## Что уже есть в работе
+- «Крестики‑нолики» на Tkinter — тренирую разделение логики и UI.
+- Набор классов с валидацией и инкапсуляцией — прокачиваю ООП и тесты.
+- Примеры работы с БД — учусь проектировать простые схемы и миграции.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Стек
+- Python 3
+- Tkinter
+- pytest
+- SQL (базовый уровень)
